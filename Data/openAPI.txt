@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Open API - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d01eb98c-d705-4586-8964-f353dfed17c3","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Open_API","wgTitle":"Open API","wgCurRevisionId":1041799234,"wgRevisionId":1041799234,"wgArticleId":9989557,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Application programming interfaces"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Open_API","wgRelevantArticleId":9989557,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{
+"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q7095934"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Open API - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Open_API"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Open_API&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Open_API&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Open_API"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Open_API rootpage-Open_API skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Open API</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about open vs. private APIs. For the web service specification, see <a href="/wiki/OpenAPI_Specification" title="OpenAPI Specification">OpenAPI Specification</a>.</div>
+<p>An <b>open API</b> (often referred to as a public API) is a publicly available <a href="/wiki/Application_programming_interface" class="mw-redirect" title="Application programming interface">application programming interface</a> that provides developers with programmatic access to a proprietary software application or web service.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> APIs are sets of requirements that govern how one application can communicate and interact with another. APIs can also allow developers to access certain internal functions of a program, although this is not typically the case for <a href="/wiki/Web_API" title="Web API">web APIs</a>. In the simplest terms, an API allows one piece of software to interact with another piece of software, whether within a single computer via a mechanism provided by the <a href="/wiki/Operating_system" title="Operating system">operating system</a> or over an internal or external <a href="/wiki/TCP/IP" class="mw-redirect" title="TCP/IP">TCP/IP</a>-based or non-TCP/IP-based network.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> Currently, many APIs are provided by organizations for access with <a href="/wiki/HTTP" class="mw-redirect" title="HTTP">HTTP</a>. APIs may be used by both developers inside the organisation that published the API or by any developers outside that organisation who wish to register for access to the interface.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Open_API_versus_private_API"><span class="tocnumber">2</span> <span class="toctext">Open API versus private API</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Private_API"><span class="tocnumber">2.1</span> <span class="toctext">Private API</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Open_API"><span class="tocnumber">2.2</span> <span class="toctext">Open API</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Open_APIs_in_business"><span class="tocnumber">3</span> <span class="toctext">Open APIs in business</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Open_APIs_on_the_Web"><span class="tocnumber">4</span> <span class="toctext">Open APIs on the Web</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Open APIs have three main characteristics:
+</p>
+<ol><li>They are available for use by developers and other users with relatively few restrictions. Restrictions might include the necessity to register with the service providing the API.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>They are typically backed by <a href="/wiki/Open_data" title="Open data">open data</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Open data is freely available for everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control. An Open API may be free to use but the publisher may limit how the API data can be used.</li>
+<li>They are based on an <a href="/wiki/Open_standard" title="Open standard">open standard</a>.</li></ol>
+<h2><span class="mw-headline" id="Open_API_versus_private_API">Open API versus private API</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=2" title="Edit section: Open API versus private API">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Private_API">Private API</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=3" title="Edit section: Private API">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A private API is an interface that opens parts of an organization's backend data and application functionality for use by developers working within (or contractors working for) that organization.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Private APIs are only exposed to internal developers therefore the API publishers have total control over what and how applications are developed. Private APIs offer substantial benefits with regards to internal collaboration. Using a private API across an organization allows for greater shared awareness of the internal data models. As the developers are working for (or contracted by) one organization, communication will be more direct and therefore they should be able to work more cohesively as a group. Private APIs can significantly diminish the development time needed to manipulate and build internal systems that maximise productivity and create customer-facing applications that improve market reach and add value to existing offerings.
+</p>
+<h3><span class="mw-headline" id="Open_API">Open API</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=4" title="Edit section: Open API">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In contrast to a private API, an open API is publicly available for all developers to access. They allow developers, outside of an organization's workforce, to access backend data that can then be used to enhance their own applications. Open APIs can significantly increase revenue without the business having to invest in hiring new developers making them a very profitable software application.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  However, it is important to remember that opening back end information to the public can create a range of security and management challenges.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> For example, publishing open APIs can make it harder for organisations to control the experience end users have with their information assets. Open API publishers cannot assume client apps built on their APIs will offer a good user experience. Furthermore, they cannot fully ensure that client apps maintain the look and feel of their corporate branding.
+</p>
+<h2><span class="mw-headline" id="Open_APIs_in_business">Open APIs in business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=5" title="Edit section: Open APIs in business">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Open APIs can be used by businesses seeking to leverage the ever-growing community of freelancing developers who have the ability to create innovative applications that add value to their core business. Open APIs are favoured in the business sphere as they simultaneously increase the production of new ideas without investing directly in development efforts. Businesses often tailor their APIs to target specific developer audiences that they feel will be most effective in creating valuable new applications. However, an API can significantly diminish an application's functionality if it is overloaded with features.  
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Open-APIs-v5.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Open-APIs-v5.png/220px-Open-APIs-v5.png" decoding="async" width="220" height="123" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Open-APIs-v5.png/330px-Open-APIs-v5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Open-APIs-v5.png/440px-Open-APIs-v5.png 2x" data-file-width="768" data-file-height="430" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Open-APIs-v5.png" class="internal" title="Enlarge"></a></div>Open API business chart</div></div></div>
+<p>For example,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Yahoo's open search API allows developers to integrate <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo</a> search into their own software applications. The addition of this API provides search functionality to the developer's application whilst also increasing search traffic for Yahoo's search engine hence benefitting both parties. With respect to <a href="/wiki/Facebook" title="Facebook">Facebook</a> and <a href="/wiki/Twitter" title="Twitter">Twitter</a>, we can see how third parties have enriched these services with their own code. For example, the ability to create an account on an external site/app using your Facebook credentials is made possible using Facebook's open API.
+</p><p>Many large technology firms, such as Twitter, <a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a> and Facebook, allow the use of their service by third parties and <a href="/wiki/Competition" title="Competition">competitors</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Open_APIs_on_the_Web">Open APIs on the Web</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=6" title="Edit section: Open APIs on the Web">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With the rise in prominence of <a href="/wiki/HTML5" title="HTML5">HTML5</a> and Web 2.0, the modern browsing experience has become interactive and dynamic and this has, in part, been accelerated through the use of open APIs. Some open APIs fetch data from the database behind a website and these are called Web APIs. For example, Google's YouTube API allows developers to integrate YouTube into their applications by providing the capability to search for videos, retrieve standard feeds, and see related content.
+</p><p>Web APIs are used for exchanging information with a website either by receiving or by sending data. When a web API fetches data from a website, the application makes a carefully constructed HTTP request to the server the site is stored on. The server then sends data back in a format your application expects (if you requested data) or incorporates your changes to the website (if you sent data).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/OpenAPI_Specification" title="OpenAPI Specification">OpenAPI Specification</a></li>
+<li><a href="/wiki/Application_enablement" title="Application enablement">Application enablement</a></li>
+<li><a href="/wiki/Open_system_(computing)" title="Open system (computing)">Open system (computing)</a></li>
+<li><a href="/wiki/Mashup_(web_application_hybrid)" title="Mashup (web application hybrid)">Mashup (web application hybrid)</a></li>
+<li><a href="/wiki/Webhook" title="Webhook">Webhook</a></li>
+<li><a href="/wiki/Web_API" title="Web API">Web API</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://openapis.org/">Open API Initiative (OAI) website</a></li>
+<li><a rel="nofollow" class="external text" href="https://marketplace.eclipse.org/content/openapi-studio-rich-oas3-editor">Eclipse OpenAPI (OAS) Editor and Studio</a></li>
+<li><a rel="nofollow" class="external text" href="https://remainsoftware.com/docs/openapi/help/index.jsp#nav/0_0">OpenAPI Editor and Test Studio Usage Wiki</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Open_API&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://searchcloudapplications.techtarget.com/definition/open-API">"What is open API? - Definition from WhatIs.com"</a>. <i>SearchCloudApplications</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SearchCloudApplications&amp;rft.atitle=What+is+open+API%3F+-+Definition+from+WhatIs.com&amp;rft_id=http%3A%2F%2Fsearchcloudapplications.techtarget.com%2Fdefinition%2Fopen-API&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFProffitt2013" class="citation web cs1">Proffitt, Brian (September 19, 2013). <a rel="nofollow" class="external text" href="http://readwrite.com/2013/09/19/api-defined">"What APIs Are And Why They're Important"</a>. <i>Readwrite</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Readwrite&amp;rft.atitle=What+APIs+Are+And+Why+They%27re+Important&amp;rft.date=2013-09-19&amp;rft.aulast=Proffitt&amp;rft.aufirst=Brian&amp;rft_id=http%3A%2F%2Freadwrite.com%2F2013%2F09%2F19%2Fapi-defined&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151125194504/http://www.apiacademy.co/resources/api-strategy-lesson-201-private-apis-vs-open-apis/">"API Strategy 201: Private APIs vs. Open APIs | API Design and Strategy"</a>. <i>www.apiacademy.co</i>. Archived from <a rel="nofollow" class="external text" href="http://www.apiacademy.co/resources/api-strategy-lesson-201-private-apis-vs-open-apis/">the original</a> on 2015-11-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.apiacademy.co&amp;rft.atitle=API+Strategy+201%3A+Private+APIs+vs.+Open+APIs+%7C+API+Design+and+Strategy&amp;rft_id=http%3A%2F%2Fwww.apiacademy.co%2Fresources%2Fapi-strategy-lesson-201-private-apis-vs-open-apis%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDodds" class="citation web cs1">Dodds, Leigh. <a rel="nofollow" class="external text" href="http://blog.ldodds.com/2014/03/25/what-is-an-open-api/">"What is an Open API?"</a>. <i>Lost Boy</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lost+Boy&amp;rft.atitle=What+is+an+Open+API%3F&amp;rft.aulast=Dodds&amp;rft.aufirst=Leigh&amp;rft_id=http%3A%2F%2Fblog.ldodds.com%2F2014%2F03%2F25%2Fwhat-is-an-open-api%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://opendatahandbook.org/guide/en/what-is-open-data/">"What is Open Data?"</a>. <i>opendatahandbook.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=opendatahandbook.org&amp;rft.atitle=What+is+Open+Data%3F&amp;rft_id=http%3A%2F%2Fopendatahandbook.org%2Fguide%2Fen%2Fwhat-is-open-data%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://nordicapis.com/business-benefits-of-private-apis/">"6 Business Benefits of Private APIs | Nordic APIs |"</a>. <i>Nordic APIs</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nordic+APIs&amp;rft.atitle=6+Business+Benefits+of+Private+APIs+%7C+Nordic+APIs+%7C&amp;rft_id=http%3A%2F%2Fnordicapis.com%2Fbusiness-benefits-of-private-apis%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://searchsoa.techtarget.com/feature/Beat-the-risks-of-managing-public-private-APIs">"Beat the risks of managing public, private APIs"</a>. <i>SearchSOA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SearchSOA&amp;rft.atitle=Beat+the+risks+of+managing+public%2C+private+APIs&amp;rft_id=http%3A%2F%2Fsearchsoa.techtarget.com%2Ffeature%2FBeat-the-risks-of-managing-public-private-APIs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDengSaltaformaggioZhangXu2015" class="citation journal cs1">Deng, Zhui; Saltaformaggio, Brendan; Zhang, Xiangyu; Xu, Dongyan (2015-01-01). "iRiS: Vetting Private API Abuse in iOS Applications". <i>Proceedings of the 22Nd ACM SIGSAC Conference on Computer and Communications Security</i>. CCS '15. New York, NY, USA: ACM: 44–56. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F2810103.2813675">10.1145/2810103.2813675</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4503-3832-5" title="Special:BookSources/978-1-4503-3832-5"><bdi>978-1-4503-3832-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+22Nd+ACM+SIGSAC+Conference+on+Computer+and+Communications+Security&amp;rft.atitle=iRiS%3A+Vetting+Private+API+Abuse+in+iOS+Applications&amp;rft.pages=44-56&amp;rft.date=2015-01-01&amp;rft_id=info%3Adoi%2F10.1145%2F2810103.2813675&amp;rft.isbn=978-1-4503-3832-5&amp;rft.aulast=Deng&amp;rft.aufirst=Zhui&amp;rft.au=Saltaformaggio%2C+Brendan&amp;rft.au=Zhang%2C+Xiangyu&amp;rft.au=Xu%2C+Dongyan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.makeuseof.com/tag/api-good-technology-explained/">"What Are APIs, And How Are Open APIs Changing The Internet"</a>. <i>MakeUseOf</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MakeUseOf&amp;rft.atitle=What+Are+APIs%2C+And+How+Are+Open+APIs+Changing+The+Internet&amp;rft_id=http%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fapi-good-technology-explained%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://developers.facebook.com/docs/">"Facebook Developer Docs"</a>. <i>Facebook for Developers</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Facebook+for+Developers&amp;rft.atitle=Facebook+Developer+Docs&amp;rft_id=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFtonyxu-io" class="citation web cs1">tonyxu-io. <a rel="nofollow" class="external text" href="https://docs.microsoft.com/en-us/linkedin/">"LinkedIn API documentation - LinkedIn"</a>. <i>docs.microsoft.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.microsoft.com&amp;rft.atitle=LinkedIn+API+documentation+-+LinkedIn&amp;rft.au=tonyxu-io&amp;rft_id=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flinkedin%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://help.twitter.com/en/rules-and-policies/twitter-api">"About Twitter's APIs"</a>. <i>help.twitter.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=help.twitter.com&amp;rft.atitle=About+Twitter%E2%80%99s+APIs&amp;rft_id=https%3A%2F%2Fhelp.twitter.com%2Fen%2Frules-and-policies%2Ftwitter-api&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOpen+API" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Web_interfaces" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_interfaces" title="Template:Web interfaces"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;;text-decoration:inherit;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_interfaces" title="Template talk:Web interfaces"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;;text-decoration:inherit;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Web_interfaces&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;;text-decoration:inherit;">e</abbr></a></li></ul></div><div id="Web_interfaces" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_API" title="Web API">Web interfaces</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Server-side" title="Server-side">Server-side</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Communication_protocol" title="Communication protocol">Protocols</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a></li>
+<li><a href="/wiki/Common_Gateway_Interface" title="Common Gateway Interface">CGI</a></li>
+<li><a href="/wiki/Simple_Common_Gateway_Interface" title="Simple Common Gateway Interface">SCGI</a></li>
+<li><a href="/wiki/FastCGI" title="FastCGI">FCGI</a></li>
+<li><a href="/wiki/Apache_JServ_Protocol" title="Apache JServ Protocol">AJP</a></li>
+<li><a href="/wiki/Web_Services_for_Remote_Portlets" title="Web Services for Remote Portlets">WSRP</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">WebSocket</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Server_Application_Programming_Interface" title="Server Application Programming Interface">Server APIs</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Netscape_Server_Application_Programming_Interface" title="Netscape Server Application Programming Interface">C NSAPI</a></li>
+<li><a href="/wiki/Apache_HTTP_Server#Feature_overview" title="Apache HTTP Server">C ASAPI</a></li>
+<li><a href="/wiki/Internet_Server_Application_Programming_Interface" title="Internet Server Application Programming Interface">C ISAPI</a></li>
+<li><a href="/wiki/Active_Server_Pages" title="Active Server Pages">COM ASP</a></li>
+<li><a href="/wiki/Jakarta_Servlet" title="Jakarta Servlet">Jakarta Servlet</a>
+<ul><li><a href="/wiki/Web_container" title="Web container">container</a></li></ul></li>
+<li><a href="/wiki/Open_Web_Interface_for_.NET" title="Open Web Interface for .NET">CLI OWIN</a></li>
+<li><a href="/wiki/HTTP_handler" title="HTTP handler">ASP.NET Handler</a></li>
+<li><a href="/wiki/Web_Server_Gateway_Interface" title="Web Server Gateway Interface">Python WSGI</a></li>
+<li><a href="/wiki/Rack_(web_server_interface)" title="Rack (web server interface)">Ruby Rack</a></li>
+<li><a href="/wiki/JSGI" title="JSGI">JavaScript JSGI</a></li>
+<li><a href="/wiki/Plack_(software)" title="Plack (software)">Perl PSGI</a></li>
+<li><a href="/wiki/Java_Portlet_Specification" title="Java Portlet Specification">Portlet</a>
+<ul><li><a href="/wiki/Java_Portlet_Specification" title="Java Portlet Specification">container</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Apache_modules" title="List of Apache modules">Apache modules</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Server_Side_Includes" title="Server Side Includes">mod_include</a></li>
+<li><a href="/wiki/Mod_jk" title="Mod jk">mod_jk</a></li>
+<li><a href="/wiki/Mod_lisp" title="Mod lisp">mod_lisp</a></li>
+<li><a href="/wiki/Mod_mono" title="Mod mono">mod_mono</a></li>
+<li><a href="/wiki/Mod_parrot" title="Mod parrot">mod_parrot</a></li>
+<li><a href="/wiki/Mod_perl" title="Mod perl">mod_perl</a></li>
+<li><a href="/wiki/PHP" title="PHP">mod_php</a></li>
+<li><a href="/wiki/Mod_proxy" title="Mod proxy">mod_proxy</a></li>
+<li><a href="/wiki/Mod_python" title="Mod python">mod_python</a></li>
+<li><a href="/wiki/Mod_wsgi" title="Mod wsgi">mod_wsgi</a></li>
+<li><a href="/wiki/Mod_ruby" title="Mod ruby">mod_ruby</a></li>
+<li><a href="/wiki/Phusion_Passenger" title="Phusion Passenger">Phusion Passenger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Web_resource" title="Web resource">Web resource</a> vs. <a href="/wiki/Web_service" title="Web service">Web service</a></li>
+<li><a class="mw-selflink selflink">Open API</a></li>
+<li><a href="/wiki/Webhook" title="Webhook">Webhook</a></li>
+<li><a href="/wiki/Application_server" title="Application server">Application server</a>
+<ul><li><a href="/wiki/List_of_application_servers" title="List of application servers">comparison</a></li></ul></li>
+<li><a href="/wiki/Server-side_scripting" title="Server-side scripting">Scripting</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Client-side" title="Client-side">Client-side</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">Browser APIs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NPAPI" title="NPAPI">C NPAPI</a>
+<ul><li><a href="/wiki/NPAPI#LiveConnect" title="NPAPI">LiveConnect</a></li>
+<li><a href="/wiki/NPAPI#XPConnect" title="NPAPI">XPConnect</a></li></ul></li>
+<li><a href="/wiki/NPAPI#NPRuntime" title="NPAPI">C NPRuntime</a></li>
+<li><a href="/wiki/Google_Native_Client#Pepper" title="Google Native Client">C PPAPI</a>
+<ul><li><a href="/wiki/Google_Native_Client" title="Google Native Client">NaCl</a></li></ul></li>
+<li><a href="/wiki/ActiveX" title="ActiveX">ActiveX</a></li>
+<li><a href="/wiki/Browser_Helper_Object" title="Browser Helper Object">BHO</a></li>
+<li><a href="/wiki/XAML_Browser_Applications" title="XAML Browser Applications">XBAP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_API#Client_side" title="Web API">Web APIs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/HTML5_audio" title="HTML5 audio">Audio</a></li>
+<li><a href="/wiki/Canvas_element" title="Canvas element">Canvas</a></li>
+<li><a href="/wiki/Cross-origin_resource_sharing" title="Cross-origin resource sharing">CORS</a></li>
+<li><a href="/wiki/Document_Object_Model" title="Document Object Model">DOM</a></li>
+<li><a href="/wiki/DOM_events" title="DOM events">DOM events</a></li>
+<li><a href="/wiki/Encrypted_Media_Extensions" title="Encrypted Media Extensions">EME</a></li>
+<li><a href="/wiki/HTML5_File_API" title="HTML5 File API">File</a></li>
+<li><a href="/wiki/W3C_Geolocation_API" title="W3C Geolocation API">Geolocation</a></li>
+<li><a href="/wiki/Indexed_Database_API" title="Indexed Database API">IndexedDB</a></li>
+<li><a href="/wiki/Media_Source_Extensions" title="Media Source Extensions">MSE</a></li>
+<li><a href="/wiki/Server-sent_events" title="Server-sent events">SSE</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/HTML5_video" title="HTML5 video">Video</a></li>
+<li><a href="/wiki/WebAuthn" title="WebAuthn">WebAuthn</a></li>
+<li><a href="/wiki/WebGPU" title="WebGPU">WebGPU</a></li>
+<li><a href="/wiki/WebRTC" title="WebRTC">WebRTC</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">WebSocket</a></li>
+<li><a href="/wiki/Web_Messaging" title="Web Messaging">Web messaging</a></li>
+<li><a href="/wiki/Web_storage" title="Web storage">Web storage</a></li>
+<li><a href="/wiki/Web_worker" title="Web worker">Web worker</a></li>
+<li><a href="/wiki/XMLHttpRequest" title="XMLHttpRequest">XMLHttpRequest</a></li>
+<li><a href="/wiki/WebAssembly" title="WebAssembly">WebAssembly</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Khronos_Group" title="Khronos Group">Khronos</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WebCL" title="WebCL">WebCL</a></li>
+<li><a href="/wiki/WebGL" title="WebGL">WebGL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gears_(software)" title="Gears (software)">Gears</a></li>
+<li><a href="/wiki/Web_SQL_Database" title="Web SQL Database">Web SQL Database</a> (formerly W3C)</li>
+<li><a href="/wiki/WebUSB" title="WebUSB">WebUSB</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ajax_(programming)" title="Ajax (programming)">Ajax</a> and <a href="/wiki/Remote_scripting" title="Remote scripting">Remote scripting</a> vs. <a href="/wiki/Dynamic_HTML" title="Dynamic HTML">DHTML</a></li>
+<li><a href="/wiki/Browser_extension" title="Browser extension">Browser extension</a></li>
+<li><a href="/wiki/Mashup_(web_application_hybrid)" title="Mashup (web application hybrid)">Mashup</a></li>
+<li><a href="/wiki/Web_IDL" title="Web IDL">Web IDL</a></li>
+<li><a href="/wiki/Client-side_scripting" class="mw-redirect" title="Client-side scripting">Scripting</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Web_page" title="Web page">Web page</a>
+<ul><li><a href="/wiki/Static_web_page" title="Static web page">Static</a></li>
+<li><a href="/wiki/Dynamic_web_page" title="Dynamic web page">Dynamic</a></li></ul></li>
+<li><a href="/wiki/Web_standards" title="Web standards">Web standards</a></li>
+<li><a href="/wiki/Web_API_security" title="Web API security">Web API security</a></li>
+<li><a href="/wiki/Web_application" title="Web application">Web application</a>
+<ul><li><a href="/wiki/Rich_web_application" title="Rich web application">Rich</a></li>
+<li><a href="/wiki/Single-page_application" title="Single-page application">Single-page</a></li>
+<li><a href="/wiki/Progressive_web_application" title="Progressive web application">Progressive</a></li></ul></li>
+<li><a href="/wiki/Web_framework" title="Web framework">Web framework</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1368
+Cached time: 20210916035104
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.335 seconds
+Real time usage: 0.392 seconds
+Preprocessor visited node count: 683/1000000
+Post‐expand include size: 53733/2097152 bytes
+Template argument size: 72/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38388/5000000 bytes
+Lua time usage: 0.197/10.000 seconds
+Lua memory usage: 4705034/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  330.126      1 -total
+ 59.81%  197.464      1 Template:Reflist
+ 46.77%  154.397     11 Template:Cite_web
+ 24.28%   80.169      1 Template:About
+ 14.22%   46.940      4 Template:Navbox
+ 12.87%   42.472      1 Template:Web_interfaces
+  3.02%    9.978      1 Template:Cite_journal
+  1.04%    3.429      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9989557-0!canonical and timestamp 20210916035103 and revision id 1041799234. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Open_API&amp;oldid=1041799234">https://en.wikipedia.org/w/index.php?title=Open_API&amp;oldid=1041799234</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Application_programming_interfaces" title="Category:Application programming interfaces">Application programming interfaces</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item">Not logged in</li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Open+API" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Open+API" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Open_API" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Open_API" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class=" vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Open_API">Read</a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Open_API&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Open_API&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class=" vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class="vector-search-box">
+	<div>
+		<h3 >
+			<label for="searchInput">Search</label>
+		</h3>
+		<form action="/w/index.php" id="searchform">
+			<div id="simpleSearch" data-search-loc="header-navigation">
+				<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Open_API" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Open_API" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Open_API&amp;oldid=1041799234" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Open_API&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Open_API&amp;id=1041799234&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7095934" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Open_API&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Open_API&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/Open_API" title="Open API – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/Open_API" title="Open API – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88_API" title="오픈 API – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Giao_ti%E1%BA%BFp_l%E1%BA%ADp_tr%C3%ACnh_%E1%BB%A9ng_d%E1%BB%A5ng_m%E1%BB%9F" title="Giao tiếp lập trình ứng dụng mở – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7095934#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 1 September 2021, at 15:33<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Open_API&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.335","walltime":"0.392","ppvisitednodes":{"value":683,"limit":1000000},"postexpandincludesize":{"value":53733,"limit":2097152},"templateargumentsize":{"value":72,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38388,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  330.126      1 -total"," 59.81%  197.464      1 Template:Reflist"," 46.77%  154.397     11 Template:Cite_web"," 24.28%   80.169      1 Template:About"," 14.22%   46.940      4 Template:Navbox"," 12.87%   42.472      1 Template:Web_interfaces","  3.02%    9.978      1 Template:Cite_journal","  1.04%    3.429      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.197","limit":"10.000"},"limitreport-memusage":{"value":4705034,"limit":52428800}},"cachereport":{"origin":"mw1368","timestamp":"20210916035104","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Open API","url":"https:\/\/en.wikipedia.org\/wiki\/Open_API","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7095934","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7095934","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-11T07:16:18Z","dateModified":"2021-09-01T15:33:15Z","headline":"a publicly available application programming interface that provides developers with programmatic access to a proprietary software application or web service"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1414"});});</script>
+</body></html>
