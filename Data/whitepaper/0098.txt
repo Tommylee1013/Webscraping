@@ -1,0 +1,364 @@
+Whitepaper 
+
+========1========
+
+Abstract  
+Today  the  penetration  of  basic  principles and  benefits of  using  blockchain is  everywhere: it can be encountered in the game and entertainment industries as well as in  the most important activity spheres of society  – health care, education, personnel market,  payment networks, and investments, and even in the organization of the  electoral process.  
+The form of attracting investments into such spheres has changed as well  – having  gone  from  writing  business  plans  and  supplying  them  to  banks  to  be  presented  in  the  offices of leading venture funds  to rapid development of digital circuits of crowdinvesting  funding called ICO in the professional sphere.  
+In other words, investing has come to full tokenization of this important process. 
+At the same time, already in the period of its formation and  early development ICO  caused resentment from a number of regulators, disappointed investors and the expert  community.  
+The  reasons  for  this  are  simple  – the  same  economic  laws  operate  in  a  world  of  crypto-currency venture  investments  just  as  in  the  sphere  of  traditional  classic  startups:  90% of all beginnings are going to be closed because of a number of reasons – lack of  financing, absence of necessary experience and skills in the team , while sometimes just  the irrelevance of the product or service in the market.   
+Systemizing  all  of  its  cumula ting experience  in  the  investment  sphere,  OnPlace  focused  all  of  its  attention  on  one  prioritized  direction  of  developing  financial  markets,  chiefly  through  the  ICO  mechanisms  – investing  into  the  businesses  of  closed  private  companies. 
+We can say with abs olute certainty that investment into private IT companies has  become one of the most reliable ways to get a high  return percentage on investments in a  relatively short period of time.  
+Developing the concept of the tokenization  protocol of PATS, the OnPlac e team  set before itself  the goal to lay the foundations in the partial  realization  of objectives to transition ICO to a new level: 
+a) The token offers of IT companies actively leading their business  
+b) The tokens of the best development teams and employers in  the world 
+c) The  tokens which  are  responsible  for  innovative  solutions and  which  have  
+proven their necessity in the technology market 
+d) The  tokens  with  a  working  financial  model  /  a  monetization  model  and  with  
+millions of users of the service around the world  
+e) The  tokens  which  have  been  invested  into  by  the  biggest  traditional  VC  
+investors of the world 
+Below  we  present  to  you  detailed  specifications  of  our  PATS  (Private  Assets  Tokenization  System)  protocol  that  will  allow  the  community  of  investors  to  make  decisions  in  regards  to the  distribution  and  movement  of  the  above  assets  in  a  decentralized manner.  
+1 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========2========
+
+The concept of PATS protocol. The use of the protocol for the tokenization of  OTC assets 
+In each time period the market presents limited offers to invest in shares of private  companies that comply in full with the criteria of the most secure and potentially lucrative  investments.  
+Tokenization  of  such  investment  options  based  on  the  application  of  the PATS  protocol assumes a certain procedure:  
+a) Formation of the Marketplace opportunity window 
+b) Selection  of  projects  for  tokenization  based  on  criteria  and  community  
+discussions of crypto -investors  
+c) Tokenization of the selected projects of underlying assets using PATS  
+d) Establishment and initial  input of PATS tokens of underlying assets  into liquid  
+circulation  
+e) Support of tokens during their life cycle, ensuring a fully decentralized control  
+of the token by the token holders community 
+2 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========3========
+
+3 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========4========
+
+1. Formation of Marketplace opportunity window (MOW) and selection of projects  for tokenization 
+When creating a pool of  Marketplace  opportunity  window (MOW) projects related to investing in private  companies, modern methods of assessing business metrics will be applied.  Business selection for investment will be made taking into account its compliance with a number of criteria: 
+1) Work in the most promising and fast -growing segments of the IT market (it may  be  specialized  in  FinTech,  Data  bases,  
+B2B,  Communications,  AI,  data  analysis,  
+VR, payments, and ma ny others ) 
+2)  Positive  dynamics  of  key  indicators and the company's operational  business  metrics,  for  example:  stable  quarterly  revenue  growth  rates  (annual)  and customers / services users increase 
+3)  Successfully  conducted  fund ing  round stages “seed” and “A” 
+4)  Been  funded  by  leading  VC  (several funds) at earlier stages 
+5) Strong competitive position in the  industry,  and  absence  of  big  monopolist  competitors.  Presence  and  successful  development of similar products / services  in the markets of other regions 
+The development of the protocol and the first wave of  improved functionality assume the implementation of a community participation mechanism in the formation of MOW,  and selection of projects via voting.  
+2. Tokenization  of  selected  projects  of  underlying organization of liquid circulation of tokens 
+assets  with  PATS  usage,  
+Fundamentally, the concept of tokenization assumes the following: everything that  happens within the digital accounting system must have legal force, just as changes in the  real estate registry lead to the change of  land or building ownership. Tokenization in the  modern understanding of blockchain has changed its approach in managing all assets:  instead of administrating via orders, the asset is controlled directly through recordings in  the smart contract, which are essentially analogous to the digital signature.  
+Applying such an approach to the management of traditional assets always brings  obvious  benefits:  it  significantly  reduces  costs,  expands  access  for  a  large  number  of  participants,  increases  the  speed  and  safety  of  asset  handling,  allows  complete  control  and audit.  
+4 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========5========
+
+Any commercial infrastructure for different classes of assets and properties involves  a number of complex components: a depository (a register that keeps records of assets  and  rights),  the  stock  exchange  (of  the  bidding  process  organizer),  elements  of  the  settlement center. Tokenization before us based on blockchain  suggests that all of these  components will be integrated as efficiently as possible, while allowing decentralization of  the entire infrastructure, having distributed storage functions and processing transactions between all parties involved.     
+The  main  task  facing  the  OnPlace  team  during  the  development  of  the  protocol  tokenization  of  investments  into  shares  of  private  companies  became  the  creation  of  a  universal scalable instrument for providing a maximally  transparent  and  safe  solution  in  the OTC investment field.  
+The  use of  our  protocol  allowed  us  to  solve  this  problem  and  enfor ce  a  set  of  mandatory conditions:  
+a) Use of a secure and standardized channel of account management based on  
+smart contracts 
+b) Decentralization of audit and participants’ decision -making  
+c) Integration of management principles directly into the asset itself  
+Scaling  solutions  based  on  the  PATS  protocol  will  open  potential  access  for  any  person  in  the  world  to  purchase OTC  assets.  Further  development  of  functional  opportunities of the protocol should allow simple connection of additional business -logic  modules  opened  by  API  based  on  the  architecture through  improvement  of  smart  contracts, the possibility of real-time transparent audit with access to results for all parties,  the possibility of collective asset management  without requiring trust, opportunity to work  with  any  trading  platform,  adding  to  tokenized  assets  supplementary  properties  and  attributes, the possibili ty of proving the history of ownership, the possibility of separating  a tokenized asset into the smallest fractions.  
+Below  are  the  definitions  of  key  concepts  and  terms  used  further  on  in  the  document:  
+Tokenization - the  process  of  creating  a  digital  tok en  in  accordance  with the  technology of smart contracts, which is based on  a specific underlying asset.  Tokenization  is the  process  of  transforming  the  storage  and  management  of  an  asset,  wherein  each  asset is given a corresponding digital  double.  
+An  Underlying  Asset – an  asset,  on  which  the  derivative  financial  instrument  is  based, the financial derivative. In the context of this document, the underlying assets are  assets of private companies not involved in  the stock exchange turnover.  
+5 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========6========
+
+A Derivative – a contract, by which the parties receive the right or commit to carry - out  some  actions  in  regards  to  an  underlying  asset.  Usually,  opportunities  to  buy,  sell,  provide,  obtain  certain  goods  or  stocks  are  envisaged.  In  contrast  to  a  direct  Sale  and Purchase Agreement, a derivative is formal and standard, initially providing a possibility  for at least one of the parties to freely sell this contract. The price of a derivative and the  character of its changes are closely related to the price of  the underlying asset.  
+The  Token  Holder  or  the  Investor – any  person  or  user  of  blockchain  that  has  received tokens created via using the PATS protocol directly from the protocol developer  or from other former holders. 
+Private Assets Tokenization System (PATS)  – a protocol created by the OnPlace  team,  which  allows  investors  (the  holders  of  issued  tokens)  to  monitor  and  control  operations over tokenized assets.  
+After completing the project selection stage OnPlace legislates legal preparations  and  develops  an  agreement,  wi thin  the  limits  of  which  property  rights  over a part  of  private company shares (an underlying asset of a token) are transferred to future holders  of the created tokens.  
+The implementation of protocol tokenization is designed to solve a set of difficulties  arising in the classical scheme of venture investment:  
+- 
+A high input threshold for most investors; 
+- 
+High transactional costs for processing  deals; 
+- 
+The lack of  complete information necessary to assess investment risks and assess  potential cost of asset growth; 
+- 
+Difficulties  in  the  realization  of  an  effective  mechanism  of  audit  and  control  of  investments; 
+- 
+Lack of sufficient (“secondary”) liquidity of investments; 
+- 
+A complex exiting process. 
+6 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========7========
+
+Principles and the mechanism of tokenization of underlying assets included in MOW 
+We have developed PATS (Private Assets Tokenization System) protocol, which will  allow the community of investors to make decisions in a decentralized manner in regards  to  the  further  distribution  and  motion  of  tokenized  assets.  The  use  of  the  protocol  wil l  mean that each decision  in connection to transactions over tokens will be recorded in a  network with its own blockchain and will not be subject to change.  
+To  solve  the  problem  of  commissioning  closed  assets  into  circulation  (shares  of  private companies) in stock turnover, we use Ethereum solutions, which allow the creation  of personal units of account in blockchain and contracts for managing them. 
+Every underlying asset implemented using PATS protocol will be represented by a  separate  private  token  and  endowed  logic  of  decentralized  management  of  PATS  protocol.  
+This  approach is  based  on  the  idea  of  creating  a  Decentralized  Autonomous  Organization,  in  which  each  holder  of  a  token  is  able  to  directly  affect the  asset  and  determine  further  operations  over  tokens  via  voting.  Thus,  each  decision  in  regards  to  operating over tokens will be registered in a network and will not be subject to change.  Together  with the managing  and  monitoring  functions,  PATS  protocol  provides  autonomous  safety of  investors’  balances  from  losing  funds  during  the  emission  and  closing of shares.   
+Basic PATS functions allow the investor (the holder of tokens issued on the  basis of  the protocol) to: 
+- 
+Determine the closing date of an asset 
+- 
+Add new assets for examination 
+- 
+Vote for the emission of tokens of underlying assets / change the parameters of  circulating tokens 
+7 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========8========
+
+- 
+Produce  equivalent  trade  of  tokens  of  the  PATS  protocol  dire ctly,  without  using  third-party stock exchanges  
+In the next versions of functionality improvement of the capacities of the protocol the  following capacities will be added: 
+- 
+Temporary halt of selling an asset 
+- 
+Ability  to  add  underlying  assets  of  third  partie s  into  the  PATS  system  using  its  specifications independently from the developer of the protocol.  
+Tokenization  of  investments  in  private  IT  company  shares  on  the  basis  of  PATS  will  allow obtaining exceptional opportunities in expanding the circle of poten tial participants  in  the  investment  process,  while  combining  in  itself  the  most  significant  benefits  of  the  protocol  – high safety level, transparency in the form of an integrated audit mechanism  and the liquidity of investments (free circulation as crypto -currency assets). Using OnPlace  blockchain networks based on PATS will reduce transaction costs for holders more than  10 times in comparison to traditional investment methods (the average fee will not exceed  0.1%).  
+All PATS tokens which will be  formed, represented and imputed into circulation on  our platform, will be provided with real assets  – private company shares. 
+8 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========9========
+
+Every token will have a set of required attributes reflected below: 
+Underlying asset of a token 
+Characteristics of an under lying asset: 
+- Company name 
+- Number and type of shares  
+constituting the underlying asset 
+- Value of funds invested in the  
+formation of the asset 
+Token of a financial asset (a derivative  
+created by PATS protocol) Characteristics of a token (PATS derivative) 
+- Token name 
+- Number of issued tokens 
+- Amount of rights granted to token  
+holders 
+Dimension / number of the underlying asset  Current token price in the stock exchange  
+providing the derivative 
+The period and features of paying off the  underlying asset  
+circulation 
+Current price for one unit of underlying  asset (share) 
+Tokenized assets will be available to a wide range of crypto -investors that have  passed standard procedures in accordance to the requirements of KYC/AML. 
+All PATS tokens will become tools of organized trades realized on their own  OnPlace trading platform, specialized  on decentralized management and control of their  circulation and liquidity. It is assumed that in addition to trade pairs with general  Ethereum and Bitcoin crypto -currencies, the PATS tokens will be available for direct  reciprocal trading between various underlying assets.  
+Legal aspects of invest ors’ access to trading PATS tokens, presented on platforms and stock exchanges of third parties, will be carried out in accordance with the access to  
+trading rules of such organizations.  
+3) Ensuring decentralized co ntrol of the community of token holders. The life cycle of PATS  
+tokens 
+Each underlying asset included in MOW (marketplace opportunity window) and  tokenized on the basis of the PATS protocol  with the OnPlace service will receive  personal  informational and analytical base that includes all of the tools (in the classic understanding  of the exchange tools analysis) required to assess its financial stability, possible risks and  potential development. This base in a form of understandable GUI will include the  
+following essential components:  
+- 
+tokens  
+A detailed card of the financial underlying asset and the characteristics of its digital  token. The quantity, type and specification of underlying asset shares, current  status of the project ownership share (% of participation), the next anticipated  significant events, current price unit of the underlying asset, the price at the  moment of tokenization of the share (if applicable), information about  
+issued into circulation with respect to the underlying asset , their enforcement by  the underlying asset and information about the rights granted to the token owners  
+will all be portrayed here ; 
+9 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========10========
+
+- 
+Key financial indicators and  specific metrics of the business dynamics  over a number of years, used for its comparative ana lysis with the closest competitors  (stock exchange assets or capitalization s of other private companies). There will be  classic indicators  of P/S, P/E, EBITDA margin types, income per employee, as well  as special metrics typical for business  – the number of service users and etc.  – all  presented here; 
+- 
+Financial statements of the company (including additional reports if available); this  section will include official documents of the company placed in open sources as  well as sources presented to their stockh olders; 
+- 
+Informational and news background including press releases of special and  popular publications in regards to the issuer, conclusions and ratings of  specialized market experts and agencies; 
+- 
+An information section about major events of the company re lated to fundraising,  changes in structure of the stockholders and capital of the company ; 
+- 
+Information about key investors, who support the project and significantly  influence it. Key figures of the VC investors that influence  the management of  operational business of the company.  
+Market segment analysis 
+a) Venture investment market size 
+The aggregated venture investment market size in the world in the year 2016 was  estimated at  $127 billion. Its annul size in the last 3 years ex ceeded $100 billion, which  practically exceeds  twice the amount of investments in 2010  – 2013. 
+10 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========11========
+
+The  largest  market  segments  (more  than  80%)  in  the  regional  focus  are  USA  and  China, which account for  $71.8 and $31 billion respectively.  
+While the Asian region is characterized by stable and positive growth of investment  
+the project – financing stages B / C / D  – accounts  for  at  least  50%  of  the  total  investment size. 
+The  size  of  investments  in  one project  (within  one  transaction)  o n  average is about $4.8 million in the early  stages,  in  the  later  ones  already  about  10.0.  If  one  considers  these  numbers  within specific series of financing, round  A  on  average  will  require  about  $5  million, while subsequent rounds  – about  $10-12 million. 
+size,  for  the  USA  and  Europe  mixed  dynamics  of  investments  are  more  typical.  
+The  absolute  industry  segment-leader  remains  the  IT  solutions domain,  software,  digital  products and services. At  the  same  time  the  share  of  investments  in  the  developmental  stage  of  
+Thus,  the  venture  investments  market  is  actively developing:  in  the  medium  term positive growth and 2 -fold index increase within 3-5 years can be expected. Its most active  segment  is  the  sphere  of  IT  solutions.  Constant  high  growth  rates  d emonstrate  the investment index in the Asian region, especially in its leading region  – China.  
+11 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========12========
+
+b) Crypto currency market 
+The total capitalization of crypto -currencies (today there are just over 800 of them)  by the end of  October 2017 exceeded $ 180 billion, completely restoring its levels after a  recent  decline  based  on  the  prohibition  of  bitcoin  trading    and  input  of  restriction  on  conducting ICO in China . This is ten times more than on January 1, 2017, and 25 times  more than on January 1, 2016. At the moment, the mark et capitalization is comparable in  size to the stock market capitalization of Qatar or Ireland.  
+Source: http://coinmarketcap.com 
+At the end of October 2017, 12 crypto -currencies have a capitalization in excess of $  1  billion,  and  total  of  their  share  was  89%  of  the  total  market  capitalization.  The  lion's  share of capitalization is, of course, Bitcoin. Now it occupies about 70% of the market, and  more  recently  - on  January  1,  2017  - BTC  accounted  for  87%  of  the  total  market  capitalization. Thus, in the  last ten months the share of BTC has seriously decreased, while  the altcoins demonstrate a faster growth in value. 
+In themselves, crypto-currencies can be divided into two types: directly currencies  (that is, payment instruments or elements of the payment  infrastructure) and crypto-assets  (a rough analogue of the share  - a share in the project). In the total capitalization of the  market,  crypto  assets  still  hold  a  small  share:  only  about  4%,  while  maintaining  a  large  growth  potential.  Also  on  the  market  app eared  crypto-currencies,  which  are  an  infrastructural  function  for  crypto  assets,  a  kind  of  superstructure  for  the  functioning  of  crypto assets. And it was the appearance of crypto assets that caused Bitcoin to decrease  in the total market capitalization. 
+In the medium-term perspective for 3-5 years most industry experts keep the high  expectations of market capitalization growth rates. The most authoritative experts believe  that the growth will be from 50 to 100% per year . 
+12 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========13========
+
+c) Segment market analysis of  private IT companies 
+The  profitability  of  investing  in  the  business  of  the  most  successful  IT  companies  implemented  in  our  service  is  the  most  realistic  alternative  to  investing  in  crypto - currencies: see the presented calculations below. 
+Source:  calculations 
+company  
+data,  
+data  from 
+https://www.crunchbase.com ,  OnPlace 
+That  is,  on  average,  investments  in  the  portfolio  of  private  companies  ensure  an  investment growth of 8–10 times or about 200% per year. 
+At  the  same time,  such  investments  allow  to  reduce  investment  risks  to  a  minimum  because they are not subject to high volatility, are provided with a diversified structure of  the investment portfolio, and even with the fall of individual stocks, they allow to remain  the overall portfolio of investments in the profit zone. 
+If we consider the current market of investments in private companies,  shares of  the following companies can be highlighted as  the most appropriate projects for potential  investments and MOW formation at the time of  writing the document : Slack, Zenreach. The  most  telling  examples of business  capitalization  growth  that  could  become  investments  with  the  use  of  PATS  in  2012-2014  (3-5  years  ago)  are  UBER,  Spotify,  Xiaomi, Airbnb, Palantir .  
+As  the  results  of  the  comparative  analysis  for  the  last  number  of  years  show,  for  investments  into  traditional  stock  exchange  assets  and  property  objects  the  return  is  rather limited and was at a moderate level: from 1.5% a year for art obj ects to a maximum  of 9.0% for fairly volatile real estate market.  
+At  the  same  time  the  average  annual  return  from  investing  into  businesses  of  leading  private  IT  companies  is  estimated  at  about  100-200%, and  in  some  cases  can  reach up to 500% (which is broadly comparable with  the revenue from the price growth  of individual crypto -shares, but at a much lower risk of investing).  
+13 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========14========
+
+Source: LAToken asset platform data,  OnPlace calculations 
+Financial expectations. The revenue mode l of the company 
+The  use  of  PATS  protocol  and  derivation  of  tokenized  tools  into  the  market  for  investments  in  shares  of  OTC  will  allow  OnPlace  to  successfully  conduct  operational  activities and bring high income.  
+During the formation  of  financial  indicators  within  this  document,  we  proceeded  from  the  following  basis:  in  the  medium  term  perspective  the  growth  rates  of  venture  investments  will  be  positive  and  are  estimated  not  less  than  10%,  the  market  size  of  tokenized  OTC  investments  will  also  be  positive  within  the  dynamics  of  the  venture  investment market, although given its current growth rate, there is a higher probability of  significantly faster tokenization growth.  
+At that, the investment shares through PATS will not exceed 1% of the shares of the  venture  market,  which  is  also  quite  conservat ive,  yet  meets  the  requirements  of  the  maximum moderate realistic business development.  
+OnPlace revenue will be shaped by incomes from 2 main sources: a charge  (included in the final price of the shares) for tokenization of OTC investments and charges   collected from secondary circulation of tokenized assets.  
+14 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========15========
+
+The  main  indicators  characterizing  expected  revenues  from  operating  OnPlace  business are shown below: 
+Indicators 
+Unit 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Market growth rate of VC  investment 
+Potential market size of VC  investments in the IT sector  (B/C/D financing stages) Average investment value in 1  project on the B/C/D financing  stages 
+% 
+10% 
+10% 
+10% 
+10% 
+billion $ 
+31,75 
+34,9 
+38,4 
+42,2 
+46,4 
+million $ 
+7,00 
+7,70 
+8,50 
+9,40 
+10,30 
+Number of tokenized assets /  projects via PATS protocol  
+unit 
+10 
+13 
+20 
+20 
+30 
+Investment size in OTC assets  (PATS tokens) in a period 
+million $ 
+70,00 
+100,10 
+170,00 
+188,00 
+309,00 
+Cumulative total of the general  size of assets (PATS tokens) in  circulation   
+million $ 
+70,00 
+170,10 
+340,10 
+528,10 
+837,10 
+Assessed market size of tokenized  PATS assets in comparison to the  segment VC investment market 
+% 
+0,22% 
+0,29% 
+0,44% 
+0,45% 
+0,67% 
+Average fee size for tokenized  PATS assets 
+Income from tokenized assets Expected share of PATS tokens in  circulation in the secondary  market out of the total size of  tokenized assets 
+Average fee size for purchase  and sale deals during the  circulation of PATS assets in the  secondary market 
+Income from PATS tokens  circulating in the stock market  Annual income from the  operating business  
+Operational expenses of the  company for the period of ( -) Annual net income  
+% 
+5% 
+5% 
+5% 
+5% 
+5% 
+million $ 
+% 
+3,50 20,0% 
+5,01 20,0% 
+8,50 20,0% 
+9,40 20,0% 
+15,45 20,0% 
+% 
+0,2% 
+0,2% 
+0,2% 
+0,2% 
+0,2% 
+million $ 
+0,03 
+0,07 
+0,14 
+0,21 
+0,33 
+million $ 
+3,53 
+5,07 
+8,64 
+9,61 
+15,78 
+million $ 
+-0,50 
+-1,00 
+-1,50 
+-1,80 
+-2,00 
+Million $ 
+3,03 
+4,07 
+7,14 
+7,81 
+13,78 
+15 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========16========
+
+Sources used: 
+- Distributed  Lab  /https://forklog.com/tokenizatsiya -aktivov-kak-sposob-povysheniya-ih- tsennosti/ 
+- The Commodity Futures Trading Commission (CFTC) 
+https://www.coindesk.com/cftc -ruling-defines-bitcoin-and-digital-currencies-as- commodities/ 
+- Ethereum foundation / https://ethereum.org/ 
+- https://www.crunchbase.com/ 
+- http://coinmarketcap.com ; 
+- KPMG Enterprise; https://www.kpmgenterprise.co.uk/ 
+- LAToken asset token platform; LAToken.com 
+16 
+OnPlace Inc. / PATS protocol version 1.1 
+
+========17========
+

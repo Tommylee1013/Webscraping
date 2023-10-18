@@ -1,0 +1,267 @@
+17 Oct 2016 
+hack.ether.camp 
+Virtual Accelerator 
+Abstract 
+Our goal is to create the ideal innovation environment for startups by  utilising blockchain technology for the release of the Virtual Accelerator. 
+
+========1========
+
+Introduction   
+“If you look at history, innovation doesn't come  just from giving people incentives; it comes  from creating environments where their ideas  can connect.” 
+- Steven Johnson 
+Year 2009, Satoshi Nakamoto started the Bitcoin project [Nakamoto 2009]. This frst  blockchain made possible a completely autonomous fnance system. 
+Year 2014, a team of blockchain enthusiasts started project Ethereum, a revolutionary  technology making it possible to create essentially any type of autonomously directed  blockchain-based object. 
+Year 2016, we are starting the Virtual Accelerator (VA) to provide transparent and true  acceleration to blockchain developers around the world. 
+The technology of blockchain and smart contracts allows for transparent evaluation  and ranking via tokens that allow holders to refect their conviction for an idea for  development. 
+Crowdfunding projects have become a popular method to raise funding at the early  stages of a project (Massolution [2015]), but generally the early backers don’t receive  anything more than the frst version of the product. 
+A better approach is to enable those that identify the value in an initiative at the  beginning to evidence their conviction using units of uniform value. That’s what our  platform facilitates. 
+The rights of early adopters who support an idea and project at the initial stages are  enforced by the Solidity [Reitwiessner 2015] smart contract deployed to the Ethereum  blockchain. 
+<ether.camp> 
+
+========2========
+
+Ideas   
+“If you can dream it,  you can do it.”  
+- Walt Disney 
+The seed of each successful company begins with an idea. The idea requires a team  of people to turn it into a prototype or MVP. A prototype needs user input from early  adopters to iterate and improve it until users are actually willing to pay for the features  they want. This is the path followed by many startups as they have become today’s  successful companies. The chain of success always starts with  an initial link of an  idea. 
+The Virtual Accelerator registration opens months before the start of the event and we  encourage hackers to share their ideas publicly. A well explained idea is the best way  to get other people passionate and ask to join your team. 
+<ether.camp> 
+
+========3========
+
+Hackers 
+“Every child is an artist. The problem is how to  remain an artist once we grow up.” 
+- Pablo Picasso 
+The Virtual Accelerator is a platform that allows for the presentation, testing and  launch of ideas. It’s a place that fosters new startups. 
+The frst step is to build a team. We encourage people to use the platform to fnd  teammates based on mutual interests, shared values and complementary skill sets. 
+Once a team is in place, and the vision for the project is clear, the next step is to attract  early adopters. These are people who will try out the prototype, express interest in the  product and commit to the future roadmap. 
+Attracting early adopters is important as it proves to the development team that  they’re on the right track. 
+What’s unique about the <hack.ether.camp> platform is that early adopters can also  be turned into kickstart backers and fund the project using the tokenizing feature  available 
+to each startup team. (See Early Adopters section for more) 
+The platform provides an open stage for teams to display and share their work,  allowing the whole community to see how they’re progressing while getting honest  feedback from a panel of experienced judges on their progress and direction. 
+<ether.camp> 
+
+========4========
+
+Judges    
+“The more original a discovery, the more   obvious it seems afterwards.” 
+- Arthur Koestler 
+As the event provides the potential for great ideas and projects to fourish and  materialise, we have invited a broad range of judges from various industries and  disciplines to provide feedback and direction to the teams. 
+The judges are there to help provide the teams with motivation, with their votes  indicating that a team is making the right decisions. 
+• 
+Each judge has a total of 1000 kudos which they can award across various teams.  Voting will commence one week after the event has started. 
+• 
+Regular fans also have the right to vote and are provided with 10 kudos to issue to  the team or teams they see with the most potential. 
+Fans can also increase the amount of kudos they have by providing proof of their  identity via their Facebook and / or Twitter account. 100 additional kudos votes are  provided for each account added. Overall a fan can therefore have a total of 210  kudos. 
+• 
+Voting on the blockchain is supported by a smart contract ProjectKudos and  described in details in the [Smart Contract Description] appendix. 
+<ether.camp> 
+
+========5========
+
+Hacker Gold 
+"Money never starts an idea; it is the idea that  starts the money." 
+- William J. Cameron 
+Hacker Gold (HKG) is the offcial token of the Virtual Accelerator. HKG allows anyone  to be involved and signify their appreciation of the best projects participating in the  event. 
+HKG allows you to acquire tokens initiated by the individual startups during the  incubation period of the hackathon. Having these tokens, in turn, provides you with  preferred voting rights on the way that funds are used to develop the applicable  startup’s idea. Startups’ tokens issued after the hackathon do not come with preferred  voting rights. 
+The amount of HKG collected by an individual team is a de facto crowd expression  of the perceived potential of the project. As such, it provides a baseline for future  crowdfunding by the team once the hackathon is over. The teams who collect the  most HKG will have the largest acceptance by the crowd and will have a clear signal of  the strength of their potential. 
+• 
+For the duration of the hackathon tokens initiated by startups will be listed on the  virtual exchange that forms part of the <hack.ether.camp> platform and can be  purchased using HKG. 
+The only way to gain preferred voting rights on a startup’s development is to buy  tokens initiated by that startup during the hackathon event. 
+• 
+The emission process. HKG will be available for 9 weeks, starting from 4 weeks  before the hackathon starts and ending after the 5 weeks of the event are  complete. 
+<ether.camp> 
+
+========6========
+
+Hacker Gold 
+The price during the emission will be calculated like this: 
+• 
+P1:  Week 1-2: (200 HKG) for 1 Ether. 
+• 
+P2:  Week 2-4: (200 HKG - 150 HKG) for 1 Ether.  
+The actual formula when X is the day in P2 : (200 - (X * 3.5)) HKG for 1 Ether    
+• 
+P3:  Week 5-6: (150 HKG) for 1 Ether  
+• 
+P4:  Week 7-9: (150 HKG - 100 HKG) for  1 Ether.  
+The actual formula when X is the day in P4 : (150 - (X * 3.5)) HKG for 1 Ether 
+No Premine. 
+There is no special amount reserved for anyone.   
+No Second Emission. 
+HKG will only be available for purchase one time, closing at the end of the second  hackathon (December 2016) event. There will be no second sale. When the Virtual  Accelerator opens to new entrants through future hackathons the only way to  purchase HKG will be on the open market. 
+<ether.camp> 
+
+========7========
+
+Hacker Gold 
+HKG trading on exchanges. 
+HKG is expected to be available for open trading on leading altcoin exchanges after  the <hack.ether. camp> event ends. 
+Collected coins:  
+The HKG token will refect the success of the Virtual Accelerator, with the ongoing  success of the platform in identifying breakout development teams and ideas  increasing the desire of developer and fans to hold the HKG token. 
+The Virtual Accelerator platform presented at the time of releasing the white paper is  the 2nd generation version, the 1st generation version of the hackathon platform can  be seen here: 
+http://season-1.ether.camp  
+The Future  
+Development on the Virtual Accelerator platform will be ongoing with updated  versions being released periodically. Our goal is to scale the platform and have  frequent competitions, generating more ideas, establishing new teams and forming  new startups. 
+Our mission is to democratise opportunity for everyone, from opening access to  entrepreneurs to early funding for development through to providing a way for  developers and fans in the community to support other startups’ ideas. 
+The ongoing development and marketing of the Virtual Accelerator will be funded from  the sale of HKG. 
+<ether.camp> 
+
+========8========
+
+BlockChain  Presence 
+"It's really hard to design products by focus  groups.  A lot of times, people don't know what  they want until you show it to them."  
+- Steve Jobs 
+The team involved in each startup will have a self-enforcing smart contract that will  guarantee the rights of each person that acquires the tokens initiated by the startup.  This is achieved via the DSTContract, where DST stands for Decentralised Startup  Team. 
+In this section we will provide an overview of the different aspects of the contract, for  the technical description please refer to the [Smart Contracts Description] appendix. 
+Token offer 
+The startup is an group of developers looking to fund their project’s R&D activities.  A fundamental aspect of the contract is holding the actual funds collected from the  community. There are 2 stages of fund collection: 
+• 
+Offering tokens during the period of the hackathon. The DST will receive the HKG  token in exchange for the particular token a team is offering. 
+• 
+After the hackathon event is over. The DST can receive Ether in exchange for the  particular token a team is offering. 
+You will fnd more on the tokens value and rest of the funding discussed in [Post  Accelerator Period]. 
+<ether.camp> 
+
+========9========
+
+BlockChain  Presence 
+Executive Team 
+This is the core startup team, who have come together to implement an idea that  they all believe in. Teams will vary depending on what they are trying to achieve, but  generally it will be a mix of skills e.g. a lead programmer, UI designer and system  administrator, would be a classic team that could build any prototype for a software  project. 
+The primary obligation of the team is to drive forward the implementation of the  project. An important factor in this is how to allocate funds to make tangible progress.  Whether the executive team is one person or more, to move the startup forward it  will need to propose how it uses its funds. The ability to do this lies solely with the  executive team as it is responsible for the success or failure of the project. 
+Early Adopters 
+The adopters are more than just the people who test the initial versions of a product;  they’re actually real world validation that the project will have users. The valuable  contribution of early adopters is rewarded by providing them with voting rights. 
+<ether.camp> 
+
+========10========
+
+BlockChain  Presence 
+Voting rights 
+Creating a balance between the right of early adopters to infuence the direction of a  startup, against the agility of the executive team to make funding decisions is key. To  allow for this, early adopters will not be asked to approve a proposal but only to refuse  a proposal they object to. 
+If the executive team presents a proposal to spend X% of the funds, the funds will be  made available after 10 days unless 55% of the votes held by the early adopters object  to the transfer of the funds from the DSTContract. 
+   
+Impeachment process. 
+In extreme cases if Early Adopters are not completely happy with what the executive  team is doing they can vote to change the executive team personnel. An impeachment  requires 70% of the voter rights. 
+The most likely use case in this instance is to return funds. They can appoint a person  who will be responsible for returning the funds according to the share of each involved  person. 
+<ether.camp> 
+
+========11========
+
+Post Accelerator  Period  
+“The three great essentials to achieve anything  worthwhile are, frst, hard work; second, stick- to-itiveness; third, common sense.” 
+- Thomas A. Edison 
+• 
+After the incubation period of the event, the startups continue to evolve their  prototype product into a functioning business by developing more features and  presenting the user base with a product roadmap. 
+• 
+It’s important to state that <ether.camp> is not claiming any rights over the  startups coming out from the Virtual Accelerator. The blockchain presence of the  startups is completely under the control of their executive team. 
+• 
+The startup will be allowed to initiate 5X more tokens immediately after the event  is over. Where X is the number of tokens sold during the hackathon event. The  tokens will be available to the general public directly for Ether. Tokens purchased in  the second phase of the crowdfund will not come with preferred voting rights. 
+• 
+The voting rights that early adopters have been given for HKG tokens acquired  during the Virtual Accelerator will grant some control over the spending of funds  and in very extreme cases changing the executive leaders. [see Blockchain  Presence section] 
+• 
+Collected HKG volatility - Startups can exchange their HKG tokens for leading  cryptocurrencies whether that is Ether or Bitcoin. This process will be made  gradual to encourage startups to continue their own kickstarter process, promoting  the remainder of their tokens for sale. 
+The HKG volatility of the tokens will be structured as follows:  
+• 
+2 months after the event is fnished, 50% of the HKG amount will be released. 
+• 
+3rd month will be linear monotonic release of the last 50% of the HKG tokens:  0.03 * 0.5 * (HKG collected). 
+<ether.camp> 
+
+========12========
+
+Project Kudos   
+“If you don't know, the thing to do is not to  get scared, but to learn.”  
+- Ayn Rand 
+The voting system is a key aspect of the Virtual Accelerator. The platform’s smart  contract system, built on the Ethereum blockchain, allows the community and judges  to best recognise teams achievements. The team with the most kudos at the end of  the competition will win the frst placed prize. 
+Voting will open one week after the event has started. 
+Each person can give a portion of their kudos quota to one or more projects. The  actual voting is done by a blockchain transaction signed with the person's identity so  that it’s transparent and traceable. 
+Each vote given to a project is therefore recorded on the Ethereum blockchain and will  be irreversible. 
+Each registered individual starts with 10 kudos. Users who provide their identity  through Facebook and / or Twitter will receive an additional 100 kudos for each  account. The addition of both accounts will therefore provide a total of 210 kudos.  To reduce the potential for fraud a minimum 100 Facebook friends and 100 Twitter  followers are required. 
+The details of smart contract: ProjectKudos are described in the [Smart Contract  Description] appendix. 
+<ether.camp> 
+
+========13========
+
+Apendix  
+Smart Contract Description   
+“Make something people want“  
+Paul Graham 
+<ether.camp> 
+
+========14========
+
+Smart Contract Description 
+This section describes the Solidity smart contracts utilised by the platform and  running on the Ethereum blockchain. 
+VirtualExchange - dstListed    
+EventInfo    - start 
+[DSTContract]    - votingRights  - tokenBalances - executive 
+ [Hacker Gold]    - tokenBalances 
+[ProjectKudos]  - projects - voters     
+Diagram - 1 (Contract Relations)   
+<ether.camp> 
+
+========15========
+
+EventInfo   
+Dates to denote the <hack.ether.camp> event. 
+  <source code>  will be added soon 
+<ether.camp> 
+
+========16========
+
+DSTContract  
+DST stands for: Decentralized Startup Team. The contract refects the relationships  inside the startup and the intrinsic value of the project.  
+  <source code>  will be added soon 
+<ether.camp> 
+
+========17========
+
+Hacker Gold   
+The offcial coin of to be used on the hackathon. The only way to aquire tokens from  other startups participating in the event.  
+  <source code>  will be added soon 
+<ether.camp> 
+
+========18========
+
+VirtualExchange  
+The virutal exchange is the technology that is the actual way to trade tokens of  promising startups on the <hack.ether.camp> event. 
+  <source code>  will be added soon 
+<ether.camp> 
+
+========19========
+
+ProjectKudos   
+The voting system of the hack.ether.camp, designed for help best startups to be  fowing up by real voters. The startup that will gain the most votes at the end of the  event will be given the frst prize of the event. 
+  <source code>  will be added soon 
+<ether.camp> 
+
+========20========
+
+References   
+1. Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System.  
+https://bitcoin.org/bitcoin.pdf 2009. 
+2. John Biggs. When Crowdfunding Fails The Backers Are Left With No Way Out.  
+2015. URL  http://techcrunch.com/2015/11/19/when-crowdfunding-fails-the- 
+backers-are-left-with-no-way-out/. 
+3. Vitalik Buterin. Ethereum: A Next-Generation Smart Contract and Decentralized  
+Application Platform. 2013. URL  https://github.com/ethereum/wiki/wiki/White- 
+Paper. 
+4. Vitalik Buterin. The Subjectivity / Exploitability Tradeoff. 2015. URL https://blog. 
+ethereum.org/2015/02/14/subjectivity-exploitability-tradeoff/. 
+5. Kate Knibbs. The 9 Most Disgraceful Crowdfunding Failures of 2015. 2015.  
+URL  http://gizmodo.com/the-9-most-disgraceful-crowdfunding-failures- 
+of-2015-1747957776. 
+6. Massolution. 2015CF - Crowdfunding Industry Report. 2015. URL http://reports. 
+crowdsourcing.org/index.php?route=product/product&path=0_20&product_id=54. 
+7. Mark Miller. The Future of Law. In paper delivered at the Extro 3 Conference  
+(August 9), 1997. 
+8. Christian Reitwiessner and Gavin Wood. Solidity. 2015. URL http://solidity. 
+readthedocs.org/. 
+9. Nick Szabo. Formalizing and securing relationships on public networks. First  
+Monday, 2(9), 1997. 
+10. Gavin Wood. Ethereum: A Secure Decentralised Generalised Transaction Ledger.  
+2014. URL http://gavwood.com/paper.pdf. 
+<ether.camp> 
+
+========21========
+
